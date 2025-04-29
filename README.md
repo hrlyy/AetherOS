@@ -92,6 +92,6 @@ And it's just getting started.
 ---
 
 ## **Command Spotlight: `swaplix`**
-
+> a linux distro accessible via terminal?
 ```bash
 swaplix
