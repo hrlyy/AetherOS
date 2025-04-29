@@ -1,5 +1,5 @@
 # **AetherOS**
-
+>*NOT AFFILIATED WITH ANURAOS OR TERBIUM BY ANY MEANS*
 > *The Operating System for Everyone, Everywhere.*
 
 > *WebOS. AetherOS. The (Unofficial) Successor to AnuraOS and Terbium.*
@@ -14,14 +14,14 @@ The ones who open Chrome on a school Chromebook and still dream big.
 
 **AetherOS** is more than a WebOS.  
 
-It's Not a toy. Not a demo. Not a dev sandbox.  
+It's not a toy. Not a demo. Not a dev sandbox.  
 A system meant for **everyone**.  
 
 If your hardware says no — **AetherOS says yes.**  
 If your budget says wait — **AetherOS says now.**  
 If the industry says "you can’t" — we say **"watch us."**
 
-**AnuraOS crawled. Terbium walked. AetherOS will fly.**
+**AnuraOS & Terbium are nothing compared to what AetherOS will be.**
 
 We are:
 - Fighting gatekeeping with free access  
