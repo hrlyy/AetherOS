@@ -13,9 +13,8 @@ The ones who can’t afford the luxury of MacBooks or expensive distros.
 The ones who open Chrome on a school Chromebook and still dream big.  
 
 **AetherOS** is more than a WebOS.  
-It’s a full, living, breathing operating system — in your browser.  
 
-Not a toy. Not a demo. Not a dev sandbox.  
+It's Not a toy. Not a demo. Not a dev sandbox.  
 A system meant for **everyone**.  
 
 If your hardware says no — **AetherOS says yes.**  
