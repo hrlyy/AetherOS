@@ -80,10 +80,10 @@ And it's just getting started.
 ---
 
 ### **Phase 4 – The Aetherverse** 🌌 ![status: future](https://img.shields.io/badge/status-future-lightgrey)
-
+> yes, we are making multiplayer terminal.
 > Social, collaborative, and ecosystem-focused innovations.
 
-- [ ] Multiplayer shell sessions (collab mode)  
+- [ ] Multiplayer shell (i thought this would be cool)  
 - [ ] Real-time terminal chat  
 - [ ] WebSocket-powered system updates  
 - [ ] Offline companion CLI  
