@@ -1,5 +1,6 @@
 # **AetherOS**
 >*NOT AFFILIATED WITH ANURAOS OR TERBIUM BY ANY MEANS*
+
 > *The Operating System for Everyone, Everywhere.*
 
 > *WebOS. AetherOS. The (Unofficial) Successor to AnuraOS and Terbium.*
