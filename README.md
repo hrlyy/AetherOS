@@ -88,8 +88,13 @@ And it's just getting started.
 - [ ] WebSocket-powered system updates  
 - [ ] Offline companion CLI  
 - [ ] AetherOS Community Showcase
-
 ---
+
+### **Phase 5 - AetherOS multiplayer edition** 🎮
+- [ ] VC's via terminal
+- [ ] Multiplayer custom games via terminal 
+
+
 
 ## **Command Spotlight: `swaplix`**
 > a linux distro accessible via terminal?
